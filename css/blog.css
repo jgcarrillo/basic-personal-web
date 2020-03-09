@@ -1,0 +1,248 @@
+body{
+    margin-top: 70px !important;
+}
+
+
+/******* NAVBAR *******/
+
+#navegacion a{
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    color: #474747 !important;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 3px solid transparent;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#navegacion a:hover{
+    border-bottom: 3px solid #ed9e00;
+    display: inline-block;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#navegacion li{
+    margin-left: 30px;;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+  }
+
+.enlace-activo{
+    border-bottom: 3px solid #ed9e00;
+    display: inline-block;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+/******* END NAVBAR *******/
+
+/**************************************
+***************************************
+**************************************/
+
+/******* BODY *******/
+
+/* IMAGEN SECCION */
+
+#paginas-seccion{
+    height: 500px;
+    width: 100% !important;
+}
+
+/* END IMAGEN SECCION */
+
+/* TEXTOS DEBAJO IMAGEN */
+
+#texto-imagen{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+#texto-imagen-centrado{
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#estilo-texto h4{
+    font-family: 'EB Garamond', sans-serif;
+    font-style: italic;
+    text-align: center;
+    color: #868686;
+    font-size: 18px;
+    margin-top: 20px;;
+}
+
+#estilo-texto h2{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+#estilo-texto p{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 25px;
+}
+
+#estilo-texto{
+    background: #D9DDDC;
+}
+
+#estilo-post{
+    background: white;
+    padding-top: 15px;
+}
+
+#estilo-post h4{
+    font-family: 'EB Garamond', sans-serif;
+    font-style: italic;
+    text-align: justify;
+    color: #868686;
+    font-size: 18px;
+}
+
+#estilo-post h2{
+    font-family: 'Raleway', sans-serif;
+    text-align: left !important;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+#estilo-post p{
+    font-family: 'Raleway', sans-serif;
+    text-align: justify;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 25px;
+}
+
+#btn-leer{
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    margin-bottom: 45px;
+    font-weight: bold;
+    background-color:#ed9e00;
+    border: none;
+}
+
+#btn-leer:hover{
+    background-color:#c0840d;
+}
+
+#estilo-texto-2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#estilo-texto-3{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background: #D9DDDC;
+    text-align: justify;
+}
+
+#estilo-texto h2{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+#estilo-texto p{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 25px;
+}
+
+/* ESTILOS ENLACE DE SUBIR */
+.up{
+    position: fixed;
+    bottom: 85px;
+    right: 30px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid #E45E4E; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: #E45E4E;
+}
+
+.up:hover{
+    position: fixed;
+    bottom: 85px;
+    right: 30px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: #E45E4E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: white;
+}
+
+/* END TEXTOS ENLACE DE SUBIR */
+
+/******* END BODY *******/
+
+/**************************************
+***************************************
+**************************************/
+
+/******* FOOTER *******/
+
+#estilo-footer{
+    margin: 20px;
+}
+
+footer h4{
+    font-family: 'EB Garamond', sans-serif;
+    color: #868686;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    letter-spacing: 0px;
+    text-transform: none;
+}
+
+#emoji{
+    display: inline;
+    width: 1em;
+    height: 1em;
+    margin: 0 .07em;
+}
+
+/******* END FOOTER *******/
