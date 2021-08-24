@@ -1,3 +1,5 @@
+# ACTUALIZACIÓN: Rehice la nueva web con el generador estático Jekyll. El repo de la misma está disponible [desde este enlace](https://github.com/jgcarrillo/jgcarrillo.github.io)
+
 # Prototipo de web personal
 
 Este sitio se ha construido usando [Bootstrap 4](https://getbootstrap.com/) :v:
@@ -6,7 +8,7 @@ Este sitio se ha construido usando [Bootstrap 4](https://getbootstrap.com/) :v:
 
 Es muy propable que sea necesario refactorizar el código de cada una de las partes (HTML, CSS y JavaScript), no obstante, el propósito de la web
 era crear un **prototipo estable** para una web personal. Este era el estado y apariencia que tenía mi web hace unos cuantos meses, aunque ahora
-luce totalmente distinta y la intención con el tiempo es usar React nativo. Puedes echarle un ojo en [JGCarrillo](http://jgcarrillo.com/).
+luce totalmente distinta y la intención con el tiempo es usar React o Vue. Puedes echarle un ojo en [JGCarrillo](http://jgcarrillo.com/).
 
 ## Mejoras respecto a la versión inicial
 
