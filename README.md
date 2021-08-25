@@ -1,4 +1,8 @@
-# ACTUALIZACIÓN: Rehice la nueva web con el generador estático Jekyll. El repo de la misma está disponible [desde este enlace](https://github.com/jgcarrillo/jgcarrillo.github.io)
+<div align="center">
+    <b>⚠️⚠️ Rehice la nueva web con el generador estático Jekyll. El repo de la misma está disponible [desde este enlace](https://github.com/jgcarrillo/jgcarrillo.github.io) ⚠️⚠️</b>
+</div>
+
+<br />
 
 # Prototipo de web personal
 
